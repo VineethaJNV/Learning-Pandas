@@ -1,12 +1,12 @@
 id,name,age,country,gender
-1,JohnDoe,29,USA,Male
-1,JohnDoe,29,USA,Male
-2,JaneSmith,,Canada,Female
+1,John Doe,29,USA,Male
+1,John Doe,29,USA,Male
+2,Jane Smith,,Canada,Female
 3,Alex,,USA,Unknown
-4,MariaGarcia,34,Spain,Female
-5,LiWei,27,China,Male
+4,Maria Garcia,34,Spain,Female
+5,Li Wei,27,China,Male
 6,,45,India,Female
-7,AhmedKhan,38,,Male
-8,RachelLee,29,USA,Female
-9,CarolsRuiz,,Mexico,Male
-10,EmilyDavis,31,USA,Female
+7,Ahmed Khan,38,,Male
+8,Rachel Lee,29,USA,Female
+9,Carols Ruiz,,Mexico,Male
+10,Emily Davis,31,USA,Female
